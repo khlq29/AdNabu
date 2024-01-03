@@ -69,7 +69,7 @@ public class ListenerImpClass extends BaseClass implements ITestListener{
 		EventFiringWebDriver takescreenshot=new EventFiringWebDriver(driver);
 		File source=takescreenshot.getScreenshotAs(OutputType.FILE);
 		String screenshotPath=System.getProperty("user.dir")
-				+"//screenshot//"+result.getMethod().getMethodName()+
+				+".//screenshot//"+result.getMethod().getMethodName()+
 				"_"+JavaUtility.getSystemDate()+".PNG";
 		File dest=new File(screenshotPath);
 		try {
@@ -112,7 +112,7 @@ public class ListenerImpClass extends BaseClass implements ITestListener{
 
 	public void onStart(ITestContext context) {
 		//step1 Configuration
-		ExtentSparkReporter htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir")+"/extentreport"+JavaUtility.getSystemDate()+".html");
+		ExtentSparkReporter htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir")+".//reports//extentreport"+JavaUtility.getSystemDate()+".html");
         htmlReporter.config().setTheme(Theme.DARK);
         htmlReporter.config().setDocumentTitle("Project1 Automation Report");
         htmlReporter.config().setReportName("Execution Report");
