@@ -3,3 +3,6 @@ test-output
 .project
 .settings
 target
+.classpath
+reports
+screenshot
