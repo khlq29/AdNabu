@@ -1,4 +1,4 @@
-# Selenium Project
+# AdNabu Selenium Project
 
 This project is a Selenium-based automation framework for testing web applications. It utilizes TestNG for test execution, Log4j for logging, and Extent Reports for test reporting.
 
