@@ -32,5 +32,5 @@ Ensure you have the following tools installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/selenium-project.git
-   cd selenium-project
+   git clone https://github.com/khlq29/AdNabu.git
+   cd AdNabu
