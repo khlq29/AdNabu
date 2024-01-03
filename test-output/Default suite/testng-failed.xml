@@ -5,13 +5,12 @@
     <classes>
       <class name="com.test.Tc">
         <methods>
-          <include name="connectDB"/>
-          <include name="configBC"/>
+          <include name="tc3"/>
+          <include name="tc2"/>
           <include name="logoutofApp"/>
           <include name="loginToApp"/>
-          <include name="tc"/>
+          <include name="launchBrowser"/>
           <include name="CloseBrowser"/>
-          <include name="closeDB"/>
         </methods>
       </class> <!-- com.test.Tc -->
     </classes>

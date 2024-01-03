@@ -18,17 +18,17 @@ public class HomePage extends BaseClass {
 		
 	}
 	
-	@FindBy(id ="twotabsearchtextbox")
-	private WebElement SearchBar;
+	@FindBy(id ="//*[@id=\"shopify-section-sections--14768207790177__header\"]/div/header/div/details-modal/details/summary/span/svg[1]")
+	private WebElement SearchBtn;
 	
-	public WebElement getSearchBar() {
-		return SearchBar;
+	public WebElement getSearcbtn() {
+		return SearchBtn;
 	}
 	
 	@FindBy(id ="nav-search-submit-button")
-	private WebElement SearchBtn;
+	private WebElement Searchtn;
 	
-	public WebElement getSearchBtn() {
+	public WebElement getSearchtn() {
 		return SearchBtn;
 	}
 	
