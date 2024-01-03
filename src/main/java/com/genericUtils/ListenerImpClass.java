@@ -112,7 +112,7 @@ public class ListenerImpClass extends BaseClass implements ITestListener{
 
 	public void onStart(ITestContext context) {
 		//step1 Configuration
-		ExtentSparkReporter htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir")+".//reports//extentreport"+JavaUtility.getSystemDate()+".html");
+		ExtentSparkReporter htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir")+".//reports//extentreport_"+JavaUtility.getSystemDate()+".html");
         htmlReporter.config().setTheme(Theme.DARK);
         htmlReporter.config().setDocumentTitle("Project1 Automation Report");
         htmlReporter.config().setReportName("Execution Report");
