@@ -34,3 +34,5 @@ Ensure you have the following tools installed on your machine:
    ```bash
    git clone https://github.com/khlq29/AdNabu.git
    cd AdNabu
+   mvn clean install
+   mvn test -DsuiteXmlFile=testng.xml
