@@ -1,7 +1,5 @@
 package objectRepositoryPages;
 
-import java.util.List;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -18,39 +16,19 @@ public class HomePage extends BaseClass {
 		
 	}
 	
-	@FindBy(id ="//*[@id=\"shopify-section-sections--14768207790177__header\"]/div/header/div/details-modal/details/summary/span/svg[1]")
+	@FindBy(xpath ="/html/body/div[3]/div/header/details-modal/details/summary/span")
 	private WebElement SearchBtn;
 	
 	public WebElement getSearcbtn() {
 		return SearchBtn;
 	}
 	
-	@FindBy(id ="nav-search-submit-button")
-	private WebElement Searchtn;
-	
-	public WebElement getSearchtn() {
-		return SearchBtn;
-	}
-	
-	@FindBy(xpath = "//textarea[@id='APjFqb']")
-	private WebElement GoogleSearchBtn;
+	@FindBy(xpath ="//input[@id='Search-In-Modal-1']")
+	private WebElement SearchBar;
 
-	public WebElement getGoogleSearchBtn() {
-		return GoogleSearchBtn;
+	public WebElement getSearchBar() {
+		return SearchBar;
 	}
 	
-	@FindBy(xpath = "//li[@role='presentation']")
-	private List<WebElement> AutoSugg;
-
-	public List<WebElement> getAutoSugg() {
-		return AutoSugg;
-	}
-	
-	@FindBy(xpath = "/html/body/div[2]/section[1]/div/div/div[1]/div[1]/div[2]/div[1]/a")
-	private WebElement FirmwareSrch;
-
-	public WebElement getFirmwareSrch() {
-		return FirmwareSrch;
-	}
 	
 }

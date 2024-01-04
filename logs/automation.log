@@ -1,12 +1,72 @@
-20:22:23.139 [main] DEBUG com.test.Tc - debugging------
-20:22:24.711 [main] INFO  com.test.Tc - ---------- Creating user-----------
-20:44:53.740 [main] DEBUG com.test.Tc - debugging------
-20:44:55.331 [main] INFO  com.test.Tc - ---------- Creating user-----------
-02:28:46.037 [main] DEBUG com.test.Tc - debugging------
-02:28:48.621 [main] INFO  com.test.Tc - ---------- Creating user-----------
-02:29:33.219 [main] DEBUG com.test.Tc - debugging------
-02:29:35.594 [main] INFO  com.test.Tc - ---------- Creating user-----------
-02:30:05.707 [main] DEBUG com.test.Tc - debugging------
-02:30:08.191 [main] INFO  com.test.Tc - ---------- Creating user-----------
-02:32:51.921 [main] DEBUG com.test.Tc - debugging------
-02:32:54.392 [main] INFO  com.test.Tc - ---------- Creating user-----------
+00:13:05.440 [main] DEBUG com.test.Tc - -------Opening Browser------
+00:13:05.600 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+00:13:07.732 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+00:18:45.221 [main] DEBUG com.test.Tc - -------Opening Browser------
+00:18:45.372 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+00:18:45.733 [main] DEBUG com.test.Tc - -------Entering the Search Term------
+00:18:46.515 [main] DEBUG com.test.Tc - -------Clicking Enter------
+00:18:47.535 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+00:54:24.997 [main] DEBUG com.test.Tc - -------Opening Browser------
+00:54:25.174 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+00:54:25.514 [main] DEBUG com.test.Tc - -------Entering the Search Term------
+00:54:26.303 [main] DEBUG com.test.Tc - -------Clicking Enter------
+00:54:27.313 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+00:54:27.395 [main] DEBUG com.test.Tc - -------Selecting the In Stock Filter------
+00:54:29.462 [main] DEBUG com.test.Tc - -------Selecting the Drop Down Option-2------
+00:54:30.677 [main] DEBUG com.test.Tc - -------Scrolling to the Items------
+00:54:31.761 [main] DEBUG com.test.Tc - -------Clicking the First Item------
+01:05:25.910 [main] DEBUG com.test.Tc - -------Opening Browser------
+01:05:26.098 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+01:05:26.472 [main] DEBUG com.test.Tc - -------Entering the Search Term------
+01:05:27.272 [main] DEBUG com.test.Tc - -------Clicking Enter------
+01:05:28.279 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+01:05:28.345 [main] DEBUG com.test.Tc - -------Selecting the In Stock Filter------
+01:05:30.414 [main] DEBUG com.test.Tc - -------Selecting the Drop Down Option-2------
+01:05:31.613 [main] DEBUG com.test.Tc - -------Scrolling to the Items------
+01:05:32.689 [main] DEBUG com.test.Tc - -------Clicking the First Item------
+01:05:39.827 [main] DEBUG com.test.Tc - -------Clicking the Add Quantity------
+01:05:40.523 [main] DEBUG com.test.Tc - -------Clicking the Add to Cart Button------
+01:05:44.543 [main] DEBUG com.test.Tc - -------Opening the Cart------
+01:06:49.685 [main] DEBUG com.test.Tc - -------Opening Browser------
+01:06:56.617 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+01:06:56.638 [main] DEBUG com.test.Tc - -------Clicking the Add Quantity------
+01:07:20.387 [main] DEBUG com.test.Tc - -------Opening Browser------
+01:07:20.556 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+01:07:20.939 [main] DEBUG com.test.Tc - -------Entering the Search Term------
+01:07:21.783 [main] DEBUG com.test.Tc - -------Clicking Enter------
+01:07:22.797 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+01:07:22.864 [main] DEBUG com.test.Tc - -------Selecting the In Stock Filter------
+01:07:24.947 [main] DEBUG com.test.Tc - -------Selecting the Drop Down Option-2------
+01:07:26.140 [main] DEBUG com.test.Tc - -------Scrolling to the Items------
+01:07:27.214 [main] DEBUG com.test.Tc - -------Clicking the First Item------
+01:07:34.339 [main] DEBUG com.test.Tc - -------Clicking the Add Quantity------
+01:07:34.402 [main] DEBUG com.test.Tc - -------Clicking the Add to Cart Button------
+01:07:40.424 [main] DEBUG com.test.Tc - -------Opening the Cart------
+01:07:40.922 [main] DEBUG com.test.Tc - -------Removing Item from the Cart------
+01:08:09.443 [main] DEBUG com.test.Tc - -------Opening Browser------
+01:08:09.606 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+01:08:09.993 [main] DEBUG com.test.Tc - -------Entering the Search Term------
+01:08:10.864 [main] DEBUG com.test.Tc - -------Clicking Enter------
+01:08:11.877 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+01:08:11.944 [main] DEBUG com.test.Tc - -------Selecting the In Stock Filter------
+01:08:14.026 [main] DEBUG com.test.Tc - -------Selecting the Drop Down Option-2------
+01:08:15.238 [main] DEBUG com.test.Tc - -------Scrolling to the Items------
+01:08:16.308 [main] DEBUG com.test.Tc - -------Clicking the First Item------
+01:08:23.449 [main] DEBUG com.test.Tc - -------Clicking the Add Quantity------
+01:08:23.512 [main] DEBUG com.test.Tc - -------Clicking the Add to Cart Button------
+01:08:29.549 [main] DEBUG com.test.Tc - -------Opening the Cart------
+01:08:30.002 [main] DEBUG com.test.Tc - -------Removing Item from the Cart------
+01:13:03.145 [main] DEBUG com.test.Tc - -------Opening Browser------
+01:13:19.193 [main] DEBUG com.test.Tc - -------Opening Browser------
+01:13:19.364 [main] DEBUG com.test.Tc - -------Clicking on Search Button------
+01:13:19.739 [main] DEBUG com.test.Tc - -------Entering the Search Term------
+01:13:20.563 [main] DEBUG com.test.Tc - -------Clicking Enter------
+01:13:21.585 [main] DEBUG com.test.Tc - -------Clicking the Availaibility Filter------
+01:13:21.647 [main] DEBUG com.test.Tc - -------Selecting the In Stock Filter------
+01:13:23.719 [main] DEBUG com.test.Tc - -------Selecting the Drop Down Option-2------
+01:13:24.943 [main] DEBUG com.test.Tc - -------Scrolling to the Items------
+01:13:26.030 [main] DEBUG com.test.Tc - -------Clicking the First Item------
+01:13:33.149 [main] DEBUG com.test.Tc - -------Clicking the Add Quantity------
+01:13:33.211 [main] DEBUG com.test.Tc - -------Clicking the Add to Cart Button------
+01:13:39.248 [main] DEBUG com.test.Tc - -------Opening the Cart------
+01:13:39.701 [main] DEBUG com.test.Tc - -------Removing Item from the Cart------
