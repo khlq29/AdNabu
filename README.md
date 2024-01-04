@@ -12,7 +12,7 @@ This project is a Selenium-based automation framework for testing web applicatio
 
 - **src/main/java**: Contains the main Java source code.
   - `com.test`: Test classes go here.
-  - `com.page`: Page object classes go here.
+  - `objectRepositoryPages`: Page object classes go here.
   - `com.genericUtils`: Utility classes go here.
 - **src/test/resources**: Contains resources such as configuration files.
   - `log4j2.xml`: Log4j configuration file.
